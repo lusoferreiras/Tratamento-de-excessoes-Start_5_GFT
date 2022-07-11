@@ -5,11 +5,14 @@
 ### Tratamento de Excessões
 -------------------------------------------------------------
 
-* Execeção é um evento que interrompe o fluxo normal do processamento de uma classe.
-* O uso correto de excessões torna o programa mais robusto e confiável.
-* Com o tratamento de execessões, um programa pode continuar executando depois de lidar com um problema.
-* Importante: Incorpore sua estratégia de tratamento de excessões no sistema desde o princípio do processo do projeto.
-* Pode ser difícil inclur um tratamento de excessões eficiente depois que um sistema é implementado.
+
+ >  - Exceção é um evento que interrompe o fluxo normal do processamento de uma classe. <br> 
+ >  - O uso correto de excessões torna o programa mais robusto e confiável. <br> 
+ >  - Com o tratamento de execessões, um programa pode continuar executando depois de lidar com um problema. <br>
+ >  - Importante: Incorpore sua estratégia de tratamento de excessões no sistema desde o princípio do processo do projeto. <br>
+ >  - Pode ser difícil inclur um tratamento de excessões eficiente depois que um sistema é implementado. <br>
+
+-----------------------------------------------------------------
 
 - Error: Usado pela JVM que serve para indicar se existe algum problema de recurso do programa, tornando a execução impossível de continuar.
 
